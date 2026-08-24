@@ -3,7 +3,7 @@
 # ¡Hola! Soy Kevin Beita Marín 👋
 ### 💻 Estudiante de Ingeniería en Sistemas | Backend & Database Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Especialista+en+Bases+de+Datos;PostgreSQL+%7C+MySQL+%7C+Docker;TypeScript+%7C+Backend+Dev;Apasionado+por+la+arquitectura+de+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Enfocado+en+Bases+de+Datos+y+Backend;PostgreSQL+%7C+MySQL+%7C+Docker;Desarrollo+con+TypeScript+%7C+Clean+Code;Apasionado+por+la+arquitectura+de+software)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-beita-mar%C3%ADn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,9 +17,9 @@
 ### 🚀 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería en Sistemas** en la Universidad Nacional de Costa Rica (UNA).
-- 🗄️ Enfoque principal en **diseño, optimización y administración de bases de datos** (PostgreSQL, MySQL).
-- 🐳 Experiencia integrando entornos con **Docker**, monitoreo con **Prometheus & Grafana** y flujos **CI/CD** con GitHub Actions.
-- 💡 Interesado en arquitectura de datos, backend escalable y buenas prácticas de desarrollo.
+- 🗄️ Interés y práctica continua en **diseño, optimización y gestión de bases de datos** (PostgreSQL, MySQL).
+- 🐳 Construcción de entornos con **Docker**, monitoreo con **Prometheus & Grafana** y flujos **CI/CD** con GitHub Actions.
+- 💡 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo de software.
 
 ---
 
@@ -63,9 +63,14 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Actividad en GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KevinBeitaM&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinBeitaM&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com/?user=KevinBeitaM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinBeitaM&theme=tokyo-night&hide_border=true" alt="Gráfico de Actividad" />
 </div>
